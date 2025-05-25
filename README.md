@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Md Abir Hassan
 
-🎯 Software Engineer (SQA) | QA Tester | Web Developer | Project Coordinator  
-🎓 CSE Graduate | MBA in MIS (Ongoing) | Tech-Savvy & Admin Expert  
-🚀 Passionate about Quality Assurance, AI Integration, and Building Better Digital Products  
+🎯 Software Engineer | QA Tester | Web Developer | Project Coordinator  
+🎓 CSE Graduate | MBA in MIS | Tech-Savvy & Admin Expert  
+🚀 Passionate about Quality Assurance, Web development, AI Integration, and Building Better Digital Products  
 
 ---
 
 ## 🧭 About Me
 
-I'm a multi-skilled professional with over **3 years of experience** in **software quality assurance, corporate administration**, and **web development**. Currently, I’m working as a **Junior Software Engineer (SQA)** at **Daffodil Software Ltd.**, where I lead testing efforts for commercial and academic systems including ERP and university management platforms.
+I'm a multi-skilled professional with over **3 years of experience** in **software quality assurance, corporate administration**, and **web development (Frontend)**. Currently, I’m working as a **Junior Software Engineer** at **Daffodil Software Ltd.**, where I lead testing efforts for commercial and academic systems including ERP and university management platforms and Website development task.
 
-I'm passionate about improving **software quality**, optimizing performance, and ensuring compliance standards in both tech and business environments.
+I'm passionate about improving **software quality, Website Development**, optimizing performance, and ensuring compliance standards in both tech and business environments.
 
 ---
 
