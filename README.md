@@ -64,8 +64,8 @@ I'm passionate about improving **software quality, Website Development**, optimi
 
 ## 📈 GitHub Stats
 
-![Abir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abirhassan2&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abirhassan2&layout=compact)
+![Abir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abir-software&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abir-software&layout=compact)
 
 ---
 
@@ -83,7 +83,7 @@ I'm passionate about improving **software quality, Website Development**, optimi
 
 - 📧 Email: [mdabirhassan2@gmail.com](mailto:mdabirhassan2@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/abirhassan2](https://linkedin.com/in/abirhassan2)  
-- 💬 WhatsApp / Skype: +8801950191090
+- 💬 WhatsApp: +8801950191090
 
 ---
 
